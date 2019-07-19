@@ -1,0 +1,22 @@
+{
+  "name": "ioak-sjcl",
+  "version": "1.0.8a",
+  "description": "Stanford Javascript Crypto Library",
+  "main": "sjcl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioak-dev/sjcl-node-module.git"
+  },
+  "keywords": [
+    "sjcl"
+  ],
+  "author": "bitwiseshiftleft",
+  "license": "(BSD-2-Clause OR GPL-2.0-only)",
+  "bugs": {
+    "url": "https://github.com/ioak-dev/sjcl-node-module/issues"
+  },
+  "homepage": "https://github.com/ioak-dev/sjcl-node-module#readme"
+}
